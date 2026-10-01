@@ -7,6 +7,17 @@
 
 ![封面](assets/cover.png)
 
+## 下载
+
+不想在网页上一章一章点的话，直接拿成品：
+
+- **[PDF　排版成品](https://github.com/bobysb/code-beyond/releases/latest/download/code-beyond-v1.0.pdf)**　145×210mm，139 页。打印、投屏、电脑上看都用它
+- **[EPUB　完整版](https://github.com/bobysb/code-beyond/releases/latest/download/code-beyond-v1.0.epub)**　手机上读最舒服，Kindle / 微信读书 / Apple Books 都能开
+- **[EPUB　试读版](https://github.com/bobysb/code-beyond/releases/latest/download/code-beyond-v1.0-sample.epub)**　只含序 + 前三章
+- **[PPT　45 分钟分享版](https://github.com/bobysb/code-beyond/releases/latest/download/code-beyond-slides-v1.0.pptx)**　团队读书会、内部分享可以直接拿去改
+
+上面四个都在 Releases 里，v1.0 之后的版本也会挂在那儿。
+
 ## 这本书回答什么
 
 不是一个使用方法的问题，是一个位置问题。
